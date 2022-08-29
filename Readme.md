@@ -4,7 +4,7 @@
   writing css first time it was difficult but i have completed the projectand  gain confidence in writing css. In this project i learned a lot and became more comfortable with html Css.
 
 # Live Link
-[Trending 2025 Page]()
+[Trending 2025 Page](https://project-1-ixulvgukw-pratikdhande.vercel.app/)
 
 ![page-img](./127.0.0.1_5500_index.html%20(7).png)
 
